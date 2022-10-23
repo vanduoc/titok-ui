@@ -7,6 +7,8 @@
 .container {
     display: flex;
     width: var(--default-layout-width);
+    margin-top: var(--default-layout-header-height);
+    padding: 0 24px;
     min-height: 1200px;
 }
 
